@@ -1,10 +1,18 @@
-# Python_internship_task_2
+# Hotel Management System
 
-Hotel Management System 
+## Description
+A simple Hotel Management System developed using Python functions.
 
-Task:-  
-1. Create a function to book hotel rooms.  
-2. Create a function to cancel reservations.  
-3. Create a function to check room availability.  
-4. Create a function to calculate customer bills.  
-5. Create a menu-driven hotel management system  
+## Features
+- Book Hotel Rooms
+- Cancel Reservations
+- Check Room Availability
+- Calculate Customer Bills
+- Menu-Driven System
+
+## Files
+- book_room.py
+- cancel_reservation.py
+- check_availability.py
+- calculate_bill.py
+- hotel_management_system.py
